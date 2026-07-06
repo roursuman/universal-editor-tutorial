@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p23958-e480684.adobeaemcloud.com/bin/franklin.delivery/roursuman/universal-editor-tutorial/main"
+    url: "https://manlike-gulf-eats.ngrok-free.dev/bin/franklin.delivery/roursuman/universal-editor-tutorial/main"
     type: "markup"
     suffix: ".html"
